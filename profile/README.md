@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://anti-norton.github.io/.github">
+  <a href="https://oravecfreeda.github.io/.github/norton-antivirus">
     <img src="https://img.shields.io/badge/Get_Norton_AntiVirus-FECC00?style=for-the-badge&logo=norton&logoColor=000000" alt="Get Norton Antivirus">
   </a>
 </p>
